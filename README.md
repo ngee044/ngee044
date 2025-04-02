@@ -64,7 +64,7 @@
 
 ## 🌱 About Me
 
-- Previously at **Poza Labs**, worked on **WAV rendering modules** and **high-performance multi-process server** modules  
+- Previously at **PozaLabs**, worked on **WAV rendering modules** and **high-performance multi-process server** modules  
 - Experience covering **domain analysis**, **architecture design**, **implementation**, and **deployment**  
 - Enthusiastic about **learning new languages & technologies**, solving critical problems, and contributing to team success  
 - Strong interest in **cutting-edge tech** and **new business requirements**
@@ -72,7 +72,7 @@
 ### Contact
 
 - **GitHub**: [ngee044](https://github.com/ngee044)  
-- **Notion**: [Portfolio & Projects (KOR)](https://elemental-treatment-3fc.notion.site/e4cc2b3172cf4b368baf80fead9c1b7e?pvs=4)  
+- **Notion**: [Portfolio & Projects (Lang is KOR)](https://elemental-treatment-3fc.notion.site/e4cc2b3172cf4b368baf80fead9c1b7e?pvs=4)  
 - **Email**: [mgee044@naver.com](mailto:mgee044@naver.com)
 
 ---
@@ -81,6 +81,3 @@
 
 > “Always striving to be a growing developer,  
 > leveraging technology to build a better world.”
-
-Feel free to open an **issue** or send me an **email** if you have any questions or collaboration ideas.  
-Thank you!
