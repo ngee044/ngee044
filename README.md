@@ -1,4 +1,4 @@
-# Hi there, I'm Hyun-gyu Lee (이현규) 👋
+# Hi there, I'm Hyun-kyu Lee (이현규) 👋
 
 > **Software Developer** specialized in Server Applications, Middleware, and cross-platform projects.  
 > Experienced in **C++17**, **Go**, **Python**, **C#** and various frameworks/tools, building robust solutions across **Windows**, **Linux**, and **iOS** platforms.
