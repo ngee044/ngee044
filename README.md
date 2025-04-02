@@ -84,4 +84,3 @@
 
 Feel free to open an **issue** or send me an **email** if you have any questions or collaboration ideas.  
 Thank you!
-```
