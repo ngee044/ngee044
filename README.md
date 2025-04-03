@@ -18,9 +18,12 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)  
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)  
 
+
 ### Frameworks / Libraries
 [![Boost](https://img.shields.io/badge/Boost.Asio-%230078D7.svg?style=flat-square&logoColor=white)](https://www.boost.org/doc/libs/release/doc/html/boost_asio.html)  
 [![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white)](https://www.qt.io/)  
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)  
+[![WPF](https://img.shields.io/badge/WPF-5C2D91?style=flat-square&logo=.net&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/)  
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)  
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)  
 [![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)  
@@ -31,6 +34,8 @@
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)  
 [![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)](https://cmake.org/)  
 [![vcpkg](https://img.shields.io/badge/vcpkg-0099FF?style=flat-square&logo=visual-studio&logoColor=white)](https://github.com/microsoft/vcpkg)  
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)  
+[![SVN](https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=subversion&logoColor=white)](https://subversion.apache.org/)  
 
 ---
 
@@ -39,7 +44,7 @@
 - **OS**: Windows, Ubuntu, iOS  
 - **Build & Package**: CMake, vcpkg, Makefile, MSBuild  
 - **IDE**: Visual Studio, VS Code, Qt Creator  
-- **SCM**: Git (GitHub)  
+- **SCM**: Git (GitHub), SVN
 - **CI/CD**: GitHub Actions, Jenkins (on-demand)
 
 ---
