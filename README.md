@@ -56,7 +56,6 @@
 1. **yirang-onnx**  
    - C++23-based CLI inference engine and ONNX model parser
    - Runs ONNX Runtime inference using .onnx models and Protocol Buffer tensor inputs
-   - [Project Link](https://github.com/ngee044/yirang-onnx)
 
 2. **yirang-message-queue**
    - Lightweight message queue designed for legacy and resource-constrained embedded systems
