@@ -53,17 +53,26 @@
 
 ## 🔭 Featured Projects
 
-1. **SimpleStorageService**  
-   - An AWS S3-like service prototype  
-   - Built with **GoLang (Gin)** for REST API  
-   - [Project Link](https://github.com/ngee044/Simple-Storage-Service/tree/main/S3RestAPI)
+1. **yirang-onnx**  
+   - C++23-based CLI inference engine and ONNX model parser
+   - Runs ONNX Runtime inference using .onnx models and Protocol Buffer tensor inputs
+   - [Project Link](https://github.com/ngee044/yirang-onnx)
 
-2. **RealTimeMessageChat**  
+2. **yirang-message-queue**
+   - Lightweight message queue designed for legacy and resource-constrained embedded systems
+   - Supports file-based mailbox IPC, SQLite-backed queues, and filesystem-based storage
+   - Enables reliable communication between legacy modules and newly developed components without requiring a network stack
+
+4. **yirang-taskforge**
+   - Distributed task execution service built around queue-based job processing
+   - Executes whitelisted applications on distributed C++23 workers and tracks task completion
+   
+5. **RealTimeMessageChat**  
    - **Boost.Asio**-based TCP/IP server for real-time message broadcasting  
    - **Redis** for minimal DB latency and **RabbitMQ (AMQP)** for message queue  
    - Broadcast messages to all connected clients
 
-3. **Various Samples / Study Repositories**  
+6. **Various Samples / Study Repositories**  
    - Unreal Engine integration, C++ Kafka usage samples, .NET toolkit demos, etc.  
    - Check [Pinned Repositories](https://github.com/ngee044?tab=repositories) for more details
 
