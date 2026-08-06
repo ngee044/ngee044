@@ -13,7 +13,7 @@
 [![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)](https://developer.apple.com/ios/)  
 
 ### Languages
-[![C++17](https://img.shields.io/badge/C++-17-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)](https://en.cppreference.com/w/cpp)  
+[![C++23](https://img.shields.io/badge/C++-23-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)](https://en.cppreference.com/w/cpp)  
 [![Go](https://img.shields.io/badge/GoLang-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)  
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)  
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)  
